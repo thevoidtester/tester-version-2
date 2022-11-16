@@ -5,6 +5,12 @@ this is a second test
 ![Purse](bH.png)
 this is a online bingo game. Here is the data diagram:
 
+## Team
+Name | Email | Phone
+--- | --- | ---
+John | j@example.com | (887) 657 - 2323
+Lem | l@example.com | (636) 736- 8576
+
 # APIs 
 [Join Game](README.md#join-game)
 
