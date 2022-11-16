@@ -2,7 +2,7 @@
 this is a second test
 
 # Bingo!
-![Purse](dH.png)
+![Purse](bH.png)
 this is a online bingo game. Here is the data diagram:
 
 # APIs 
