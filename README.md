@@ -7,17 +7,26 @@ this is a online bingo game. Here is the data diagram:
 # APIs 
 [Join Game](README.md#join-game)
 
-Pay Anti
+[Pay Anti](README.md#anti-up)
 
-Draw cards
+[Draw cards](README.md#draw-cards)
 
-Draw Ball
+##Join Game!
+This api allows the user to join the game.It uses the "GET' HTTP method
 
-Daub Card
+~~~http
+http://bingo.com/api/joingame?name=matt
+~~~
 
-Call Bingo
+This allows a player named Matt to join the game.
 
-#Join Game!
-...javascript
+Sample Response:
+~~~javascrtip
+{"status":"success"}
+~~~
 
-...
+Sample Error:
+~~~javascript
+
+{"status":"fale"}
+~~~
